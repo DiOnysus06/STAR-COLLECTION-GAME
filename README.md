@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Star Game Collection! This project is a suite of beginner-friendly games, all themed around stars and space. Each game in the collection is designed with a user-friendly interface, making it accessible for players of all ages. The project is coded in C# and leverages simple yet effective design principles to create an engaging experience.
+Welcome to the Star Game Collection! This project is a suite of beginner-friendly games, all themed around an area. Each game in the collection is designed with a user-friendly interface, making it accessible for players of all ages. The project is coded in C# and leverages simple yet effective design principles to create an engaging experience.
 
 ## Games Included
 
