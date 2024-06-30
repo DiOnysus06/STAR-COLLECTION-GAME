@@ -6,10 +6,7 @@ Welcome to the Star Game Collection! This project is a suite of beginner-friendl
 
 ## Games Included
 
-1. **Star Catcher**: Collect as many falling stars as you can within a time limit.
-2. **Space Invaders**: Defend your spaceship from waves of enemy invaders.
-3. **Asteroid Dodger**: Navigate through a field of asteroids and survive as long as possible.
-4. **Galaxy Explorer**: Explore different galaxies and discover hidden stars.
+1. **Star Collection** : A third person game with a navigable robot to explore the area and catch the stars.
 
 ## Getting Started
 
