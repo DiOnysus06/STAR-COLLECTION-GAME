@@ -20,7 +20,7 @@ Welcome to the Star Game Collection! This project is a suite of beginner-friendl
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/star-game-collection.git
+    git clone https://github.com/DiOnysus06/STAR-COLLECTION-GAME/tree/main
     ```
 
 2. **Navigate to the project directory:**
@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer at your-email@example.com.
+For any questions or suggestions, feel free to open an issue on GitHub or contact the project maintainer at divyanshuk0603@gmail.com.
 
 ---
 
