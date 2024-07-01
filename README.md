@@ -77,7 +77,8 @@ For any questions or suggestions, feel free to open an issue on GitHub or contac
 
 ---
 
-![Screenshot 2024-06-29 202752](https://github.com/DiOnysus06/STAR-COLLECTION-GAME/assets/135935472/b81e756b-7901-486c-a6ec-7206a49a1262)
+![Screenshot 2024-07-01 203224](https://github.com/DiOnysus06/STAR-COLLECTION-GAME/assets/135935472/ea1162f1-f659-42c4-8371-5eef0ff76628)
+
 
 
 Thank you for checking out the Star Game Collection! We hope you enjoy playing these games as much as we enjoyed creating them. Happy gaming!
